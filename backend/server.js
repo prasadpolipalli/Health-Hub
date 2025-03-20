@@ -7,6 +7,15 @@ import userRouter from "./routes/userRoute.js"
 import doctorRouter from "./routes/doctorRoute.js"
 import adminRouter from "./routes/adminRoute.js"
 
+
+
+
+const cors = require("cors");
+app.use(cors({ origin: ["https://yourfrontend.vercel.app", "https://youradmin.vercel.app"] }));
+
+
+
+
 // app config
 const app = express()
 const port = process.env.PORT || 4000
