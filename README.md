@@ -8,10 +8,10 @@ Admin URL : [HealthHub Admin Panel](https://health-hub-admin.onrender.com)
 
 📸 Screenshots
 User Portal
-![HealthHub User Portal](Screenshot%202025-03-22%20132851.png)
+![HealthHub User Portal](screenshot_1.png)
 
  Admin Panel
-![HealthHub Admin Panel](Screenshot%202025-03-22%20132942.png)
+![HealthHub Admin Panel](screenshot_2.png)
 
 
 
