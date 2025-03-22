@@ -25,7 +25,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
             <li>+91 9704719625</li>
-            <li>prasadrc816v@gmail.com</li>
+            <li>prasadrc816@gmail.com</li>
           </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2024 @ HealthHub.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025 @ HealthHub.com - All Right Reserved.</p>
       </div>
 
     </div>
