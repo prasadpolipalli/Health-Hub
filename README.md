@@ -8,7 +8,7 @@ Admin URL : [HealthHub Admin Panel](https://health-hub-admin.onrender.com)
 
 📸 Screenshots
 User Portal
-![HealthHub User Portal]([screenshot_1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelpx.adobe.com%2Fin%2Fphotoshop%2Fusing%2Fconvert-color-image-black-white.html&psig=AOvVaw0bi4Z7-ikzTMdMJITyUEO5&ust=1744523486856000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCg68rm0YwDFQAAAAAdAAAAABAE))
+![HealthHub User Portal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelpx.adobe.com%2Fin%2Fphotoshop%2Fusing%2Fconvert-color-image-black-white.html&psig=AOvVaw0bi4Z7-ikzTMdMJITyUEO5&ust=1744523486856000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCg68rm0YwDFQAAAAAdAAAAABAE)
 
  Admin Panel
 ![HealthHub Admin Panel](screenshot_2.png)
